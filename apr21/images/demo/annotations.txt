@@ -1,0 +1,19 @@
+1--Handshaking/1_Handshaking_Handshaking_1_35.jpg
+1
+440 141 193 258 0 0 0 0 0 0 
+1--Handshaking/1_Handshaking_Handshaking_1_94.jpg
+1
+381 207 237 354 0 0 0 0 0 0 
+1--Handshaking/1_Handshaking_Handshaking_1_107.jpg
+1
+391 177 174 258 0 0 0 0 0 0 
+1--Handshaking/1_Handshaking_Handshaking_1_134.jpg
+2
+320 66 70 142 0 0 0 0 1 0 
+698 58 70 156 0 0 0 0 0 1 
+1--Handshaking/1_Handshaking_Handshaking_1_158.jpg
+4
+210 146 112 154 0 0 0 0 0 0 
+464 240 52 94 1 0 0 0 0 0 
+700 40 126 210 0 0 0 0 0 0 
+440 304 56 66 1 0 0 0 1 1 
